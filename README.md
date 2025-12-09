@@ -1,4 +1,4 @@
-KernelPanicOS is a **minimal, lightweight educational operating system kernel** written in C, designed for learning OS development, VGA output, keyboard handling, and basic shell functionalities.
+ThorOS is a **minimal, lightweight educational operating system kernel** written in C, designed for learning OS development, VGA output, keyboard handling, and basic shell functionalities.
 
 ---
 
@@ -20,7 +20,7 @@ KernelPanicOS is a **minimal, lightweight educational operating system kernel** 
 
 ## Prerequisites
 
-To build and run NebulaOS, you need:
+To build and run ThorOS, you need:
 
 - `gcc` / `i686-elf-gcc` cross-compiler  
 - `make`  
@@ -36,7 +36,7 @@ Optional for real hardware testing:
 ## Build Instructions
 
 1. Clone the repository:
-git clone https://github.com/yourusername/KernelPanic.git
+git clone https://github.com/yourusername/ThorOs.git
 cd src
 
 2. Compile the kernel:

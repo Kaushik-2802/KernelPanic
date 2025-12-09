@@ -36,7 +36,7 @@ Optional for real hardware testing:
 ## Build Instructions
 
 1. Clone the repository:
-git clone https://github.com/yourusername/nebulaos.git
+git clone https://github.com/yourusername/KernelPanic.git
 cd src
 
 2. Compile the kernel:
